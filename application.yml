@@ -1,0 +1,24 @@
+---
+spring:
+  profiles: client1
+words: I,You,He,She,It
+
+---
+spring:
+  profiles: client2
+words: ran,knew,had,saw,bought
+
+---
+spring:
+  profiles: client3
+words: a,the
+
+---
+spring:
+  profiles: client4
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: client5
+words: boat,book,vote,seat,backpack,partition,groundhog  
