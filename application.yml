@@ -2,26 +2,36 @@
 spring:
   profiles: client1
 words: I,You,He,She,It
+server:
+  port: 8011
 
 ---
 spring:
   profiles: client2
 words: ran,knew,had,saw,bought
+server:
+  port: 8012
 
 ---
 spring:
   profiles: client3
 words: a,the
+server:
+  port: 8013
 
 ---
 spring:
   profiles: client4
 words: reasonable,leaky,suspicious,ordinary,unlikely
+server:
+  port: 8014
 
 ---
 spring:
   profiles: client5
 words: boat,book,vote,seat,backpack,partition,groundhog
+server:
+  port: 8015
 
 ---
 eureka:
