@@ -21,4 +21,10 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: client5
-words: boat,book,vote,seat,backpack,partition,groundhog  
+words: boat,book,vote,seat,backpack,partition,groundhog
+
+---
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8010/eureka
