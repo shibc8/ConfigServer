@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='23'>
+    <iu id='com.genuitec.eclipse.codetogether.feature.feature.group' name='CodeTogether Collaboration' version='4.0.1.202104081007'>
+      <repositories size='1'>
+        <repository location='https://www.codetogether.com/updates/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='com.genuitec.eclipse.theming.core.feature.feature.group' name='DevStyle (includes Darkest Dark Theme)' version='1.11.0.202103191838'>
+      <repositories size='1'>
+        <repository location='http://www.genuitec.com/updates/devstyle/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='com.genuitec.eclipse.theming.designer.feature.feature.group' name='DevStyle - Icon Designer' version='1.11.0.202103191838'>
+      <repositories size='1'>
+        <repository location='http://www.genuitec.com/updates/devstyle/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='com.genuitec.eclipse.theming.feature.feature.group' name='DevStyle with CodeTogether Bundle' version='1.11.0.202103191838'>
+      <repositories size='1'>
+        <repository location='http://www.genuitec.com/updates/devstyle/ci/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.feature.group' name='Enhanced Class Decompiler (Core)' version='3.2.0.202102151828'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.cfr.feature.group' name='Enhanced Class Decompiler CFR Extension (Optional)' version='3.2.0.202102151828'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.jad.feature.group' name='Enhanced Class Decompiler Jad Extension (Optional)' version='3.2.0.202102151828'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.jd.feature.group' name='Enhanced Class Decompiler JD-Core Extension (Optional)' version='3.2.0.202102151828'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.procyon.feature.group' name='Enhanced Class Decompiler Procyon Extension (Optional)' version='3.2.0.202102151828'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sf.feeling.decompiler.source.feature.group' name='Enhanced Class Decompiler Source (Optional)' version='3.2.0.202102151828'>
+      <repositories size='1'>
+        <repository location='https://ecd-plugin.github.io/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.projectlombok.feature.feature.group' name='Lombok' version='1.18.18'>
+      <repositories size='1'>
+        <repository location='https://projectlombok.org/p2'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.ajdt.feature.feature.group' name='Spring IDE AJDT Integration (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.aop.feature.feature.group' name='Spring IDE AOP Extension (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.autowire.feature.feature.group' name='Spring IDE Autowire Extension (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.batch.feature.feature.group' name='Spring IDE Batch Extension (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.boot.dash.feature.feature.group' name='Spring IDE Boot Microservices Dash' version='4.10.0.202103111225'>
+      <repositories size='2'>
+        <repository location='https://download.springsource.com/release/TOOLS/sts4/update/latest'/>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.feature.feature.group' name='Spring IDE Core (required)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.integration.feature.feature.group' name='Spring IDE Integration, Flex and Web Services Extension (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.maven.feature.feature.group' name='Spring IDE Maven Support' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.mylyn.feature.feature.group' name='Spring IDE Mylyn Integration (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.security.feature.feature.group' name='Spring IDE Security Extension (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.data.feature.feature.group' name='Spring IDE Spring Data Support' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.webflow.feature.feature.group' name='Spring IDE Web Flow Extension (optional)' version='3.9.16.202103111701-RELEASE'>
+      <repositories size='1'>
+        <repository location='https://download.springsource.com/release/TOOLS/update/3.9.16.RELEASE/e4.19'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
